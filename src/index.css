@@ -1,0 +1,12 @@
+body {
+    background-color: rgba(148, 82, 210, 0.765);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
